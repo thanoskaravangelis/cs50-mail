@@ -1,2 +1,3 @@
 .mail/static/admin
 .vscode.com/
+*/__pycache__
